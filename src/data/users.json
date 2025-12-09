@@ -1,0 +1,50 @@
+
+{
+  "users": [
+    {
+      "id": "PAT001",
+      "uhid": "UHID001",
+      "name": "Pavan",
+      "email": "Pavan@example.com",
+      "phone": "+91 98765 43210",
+      "password": "password123",
+      "role": "patient",
+      "avatar": "https://ui-avatars.com/api/?name=Pavan+Doe&background=805AD5&color=fff",
+      "status": "active",
+      "onboardingStatus": "completed",
+      "createdAt": "2024-01-15T10:30:00Z"
+    },
+    {
+      "id": "DOC001",
+      "name": "Dr. Sachin Sharma",
+      "email": "sarah@hospital.com",
+      "phone": "+91 98765 43211",
+      "password": "doctor123",
+      "role": "doctor",
+      "specialization": "Cardiology",
+      "avatar": "https://ui-avatars.com/api/?name=Sarah+Smith&background=3182CE&color=fff",
+      "status": "active"
+    },
+    {
+      "id": "ADM001",
+      "name": "Admin User",
+      "email": "admin@hospital.com",
+      "phone": "+91 98765 43212",
+      "password": "admin123",
+      "role": "admin",
+      "avatar": "https://ui-avatars.com/api/?name=Admin+User&background=E53E3E&color=fff",
+      "status": "active"
+    },
+    {
+      "id": "REC001",
+      "name": "Receptionist User",
+      "email": "reception@hospital.com",
+      "phone": "+91 98765 43213",
+      "password": "reception123",
+      "role": "staff",
+      "department": "Reception",
+      "avatar": "https://ui-avatars.com/api/?name=Receptionist&background=38A169&color=fff",
+      "status": "active"
+    }
+  ]
+}
