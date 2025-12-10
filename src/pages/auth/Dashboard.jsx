@@ -183,7 +183,7 @@ const HomePage = () => {
       ]
     },
     guest: {
-      title: 'MediCare Pro',
+      title: 'Sai Prasanthi',
       subtitle: 'Advanced Hospital Management System',
       color: 'blue',
       icon: MdHealthAndSafety,
@@ -328,7 +328,7 @@ const HomePage = () => {
             ) : (
               <Box>
                 <Heading size="3xl">
-                  Welcome to <span style={{ color: '#FFD700' }}>MediCare Pro</span>
+                  Welcome to <span style={{ color: '#FFD700' }}>Sai Prasanthi</span>
                 </Heading>
                 <Text fontSize="xl" maxW="3xl" mt={4} opacity={0.9}>
                   Advanced Hospital Management System with seamless patient onboarding, 
@@ -697,7 +697,7 @@ const HomePage = () => {
             <Text fontSize="xl" maxW="2xl">
               {user 
                 ? 'Our support team is available 24/7 to assist you with any issues.'
-                : 'Join thousands of healthcare professionals using MediCare Pro to streamline their operations.'
+                : 'Join thousands of healthcare professionals using Sai Prasanthi to streamline their operations.'
               }
             </Text>
             <Stack direction={['column', 'row']} spacing={4}>

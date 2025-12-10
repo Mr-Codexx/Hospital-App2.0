@@ -381,11 +381,11 @@ const Sidebar = ({ onClose, onToggle, isMobile = false, ...rest }) => {
                 <Image
                   src="https://cdn-icons-png.flaticon.com/512/2966/2966327.png"
                   boxSize="32px"
-                  alt="MediCare"
+                  alt="Sai Prasanthi"
                 />
                 <Box>
                   <Text fontSize="xl" fontWeight="bold" color="brand.500" lineHeight="1">
-                    MediCare Pro
+                    Sai Prasanthi
                   </Text>
                   <Text fontSize="xs" color="gray.500">Hospital Management</Text>
                 </Box>

@@ -186,7 +186,7 @@ const AboutPage = () => {
               animate={{ y: 0, opacity: 1 }}
               transition={{ duration: 0.8 }}
             >
-              About MediCare Pro
+              About Sai Prasanthi
             </MotionHeading>
             <Text color="white" fontSize={{ base: "md", md: "xl" }} textAlign="center">
               Committed to excellence in healthcare for over 30 years.
@@ -266,7 +266,7 @@ const AboutPage = () => {
               </Badge>
               <Heading size="2xl">Our Guiding Principles</Heading>
               <Text fontSize="xl" color="gray.600" maxW="800px">
-                MediCare Pro is built on principles that ensure high-quality, compassionate, and innovative healthcare.
+                Sai Prasanthi is built on principles that ensure high-quality, compassionate, and innovative healthcare.
               </Text>
             </VStack>
             <SimpleGrid columns={{ base: 1, md: 2, lg: 3 }} spacing={8} w="full">

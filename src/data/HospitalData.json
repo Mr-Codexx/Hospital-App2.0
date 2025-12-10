@@ -1,6 +1,6 @@
 {
   "hospitalInfo": {
-    "name": "MediCare Pro Hospital",
+    "name": "Sai Prasanthi Hospital",
     "address": {
       "street": "Plot No. 14, Sector 18",
       "area": "Dwarka",
@@ -12,8 +12,8 @@
     "contact": {
       "phone": "+91-11-25678901",
       "emergency": "+91-9876543210",
-      "email": "info@medicarepro.in",
-      "website": "https://www.medicarepro.in"
+      "email": "info@Sai Prasanthipro.in",
+      "website": "https://www.Sai Prasanthipro.in"
     },
     "timings": {
       "opd": "8:00 AM - 8:00 PM",
@@ -139,7 +139,7 @@
       "registrationNumber": "MCI-123456",
       "contact": {
         "phone": "+91-9876543210",
-        "email": "dr.rajesh@medicarepro.in",
+        "email": "dr.rajesh@Sai Prasanthipro.in",
         "emergencyContact": "+91-9876543211"
       },
       "availability": {
@@ -175,7 +175,7 @@
       "registrationNumber": "MCI-234567",
       "contact": {
         "phone": "+91-9876543212",
-        "email": "dr.priya@medicarepro.in",
+        "email": "dr.priya@Sai Prasanthipro.in",
         "emergencyContact": "+91-9876543213"
       },
       "availability": {
@@ -210,7 +210,7 @@
       "registrationNumber": "MCI-345678",
       "contact": {
         "phone": "+91-9876543214",
-        "email": "dr.amit@medicarepro.in",
+        "email": "dr.amit@Sai Prasanthipro.in",
         "emergencyContact": "+91-9876543215"
       },
       "availability": {
@@ -245,7 +245,7 @@
       "registrationNumber": "MCI-456789",
       "contact": {
         "phone": "+91-9876543216",
-        "email": "dr.anjali@medicarepro.in",
+        "email": "dr.anjali@Sai Prasanthipro.in",
         "emergencyContact": "+91-9876543217"
       },
       "availability": {
@@ -280,7 +280,7 @@
       "registrationNumber": "MCI-567890",
       "contact": {
         "phone": "+91-9876543218",
-        "email": "dr.rohit@medicarepro.in",
+        "email": "dr.rohit@Sai Prasanthipro.in",
         "emergencyContact": "+91-9876543219"
       },
       "availability": {
@@ -315,7 +315,7 @@
       "registrationNumber": "MCI-678901",
       "contact": {
         "phone": "+91-9876543220",
-        "email": "dr.sunita@medicarepro.in",
+        "email": "dr.sunita@Sai Prasanthipro.in",
         "emergencyContact": "+91-9876543221"
       },
       "availability": {
@@ -349,7 +349,7 @@
       "registrationNumber": "MCI-789012",
       "contact": {
         "phone": "+91-7906310812",
-        "email": "dr.sachin@medicarepro.in",
+        "email": "dr.sachin@Sai Prasanthipro.in",
         "emergencyContact": "+91-7906310812"
       },
       "availability": {
@@ -384,7 +384,7 @@
       "registrationNumber": "MCI-890123",
       "contact": {
         "phone": "+91-9876543224",
-        "email": "dr.neha@medicarepro.in",
+        "email": "dr.neha@Sai Prasanthipro.in",
         "emergencyContact": "+91-9876543225"
       },
       "availability": {
@@ -1068,7 +1068,7 @@
       "department": "Reception",
       "contact": {
         "phone": "+91-9876543250",
-        "email": "rajesh.kumar@medicarepro.in"
+        "email": "rajesh.kumar@Sai Prasanthipro.in"
       },
       "shift": "Morning (9 AM - 5 PM)",
       "employeeId": "EMP001234"
@@ -1080,7 +1080,7 @@
       "department": "Cardiology",
       "contact": {
         "phone": "+91-9876543251",
-        "email": "priya.singh@medicarepro.in"
+        "email": "priya.singh@Sai Prasanthipro.in"
       },
       "shift": "Day (8 AM - 4 PM)",
       "employeeId": "EMP001235"
@@ -1092,7 +1092,7 @@
       "department": "Pathology",
       "contact": {
         "phone": "+91-9876543252",
-        "email": "amit.sharma@medicarepro.in"
+        "email": "amit.sharma@Sai Prasanthipro.in"
       },
       "shift": "General (9 AM - 6 PM)",
       "employeeId": "EMP001236"

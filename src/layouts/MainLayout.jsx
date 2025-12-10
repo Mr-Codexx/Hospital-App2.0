@@ -108,7 +108,7 @@ export default function MainLayout() {
       '/staff/upload-reports': 'Upload Reports',
     };
     
-    setPageTitle(titles[path] || 'MediCare Pro');
+    setPageTitle(titles[path] || 'Sai Prasanthi');
   }, [location]);
 
   // Handle sidebar toggle
@@ -189,7 +189,7 @@ console.log(sidebarCollapsed);
         >
           <Flex align="center" justify="space-between">
             <Text fontSize="sm" color="gray.500">
-              © 2024 MediCare Pro Hospital. All rights reserved.
+              © 2024 Sai Prasanthi Hospital. All rights reserved.
             </Text>
             <HStack spacing={4} display={{ base: 'none', md: 'flex' }}>
               <Text fontSize="sm" color="gray.500">v2.1.0</Text>

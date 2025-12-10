@@ -376,7 +376,7 @@ const LoginModal = ({ isOpen, onClose, onLoginSuccess }) => {
       
       toast({
         title: 'Account Created!',
-        description: 'Welcome to MediCare Pro',
+        description: 'Welcome to Sai Prasanthi',
         status: 'success',
         duration: 2000,
       });
@@ -510,7 +510,7 @@ const LoginModal = ({ isOpen, onClose, onLoginSuccess }) => {
                 <HStack spacing={3}>
                   <MdHealthAndSafety size={isMobile ? 28 : 36} />
                   <Box>
-                    <Heading size={isMobile ? "md" : "lg"} fontWeight="bold">MediCare Pro</Heading>
+                    <Heading size={isMobile ? "md" : "lg"} fontWeight="bold">Sai Prasanthi</Heading>
                     <Text fontSize={isMobile ? "xs" : "sm"} opacity={0.9}>
                       Hospital Management System
                     </Text>
@@ -967,7 +967,7 @@ const LoginModal = ({ isOpen, onClose, onLoginSuccess }) => {
                     <VStack spacing={4} align="stretch" maxW="500px" mx="auto">
                       <Box textAlign="center" mb={2}>
                         <Heading size={isMobile ? "md" : "lg"} mb={2}>Create Account</Heading>
-                        <Text fontSize={isMobile ? "sm" : "md"} color="gray.600">Join MediCare Pro today</Text>
+                        <Text fontSize={isMobile ? "sm" : "md"} color="gray.600">Join Sai Prasanthi today</Text>
                       </Box>
 
                       <form onSubmit={handleRegister}>

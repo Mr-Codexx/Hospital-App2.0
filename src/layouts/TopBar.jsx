@@ -342,7 +342,7 @@ const TopBar = () => {
               onClick={() => {
                 toast({
                   title: 'Help & Support',
-                  description: 'Contact support at support@medicarepro.com or call +1 (555) 123-4567',
+                  description: 'Contact support at support@Sai Prasanthipro.com or call +1 (555) 123-4567',
                   status: 'info',
                   duration: 5000,
                 });

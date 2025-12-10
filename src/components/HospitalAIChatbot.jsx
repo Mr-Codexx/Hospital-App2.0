@@ -147,7 +147,7 @@ const HospitalAIChatbot = () => {
     setMessages([
       {
         id: 1,
-        text: "Hello! I'm MediCare AI Assistant. I can help you with hospital data, appointments, patient records, and more. How can I assist you today?",
+        text: "Hello! I'm Sai Prasanthi AI Assistant. I can help you with hospital data, appointments, patient records, and more. How can I assist you today?",
         sender: 'bot',
         timestamp: new Date(),
         type: 'text',
@@ -368,7 +368,7 @@ const HospitalAIChatbot = () => {
           {isBot && (
             <Avatar
               size="sm"
-              name="MediCare AI"
+              name="Sai Prasanthi AI"
               src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png"
               bg="blue.500"
             />
@@ -599,12 +599,12 @@ const HospitalAIChatbot = () => {
         <HStack spacing={3}>
           <Avatar
             size="sm"
-            name="MediCare AI"
+            name="Sai Prasanthi AI"
             src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png"
             bg="white"
           />
           <Box>
-            <Text fontWeight="bold">MediCare AI Assistant</Text>
+            <Text fontWeight="bold">Sai Prasanthi AI Assistant</Text>
             <Text fontSize="xs" opacity={0.8}>
               Powered by Hospital Data Analytics
             </Text>

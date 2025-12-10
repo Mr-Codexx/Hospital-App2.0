@@ -76,7 +76,7 @@ const ContactPage = () => {
     {
       icon: FiMail,
       title: "Email",
-      info: "contact@MediCarePro.in",
+      info: "contact@Sai PrasanthiPro.in",
       color: "blue.500",
     },
     {
@@ -110,7 +110,7 @@ const ContactPage = () => {
         >
           <VStack spacing={4}>
             <Heading color="white" size={{ base: "2xl", md: "4xl" }}>
-              Contact MediCare Pro
+              Contact Sai Prasanthi
             </Heading>
             <Text color="white" fontSize={{ base: "md", md: "xl" }} textAlign="center">
               We're here to assist you 24/7. Reach out to us anytime.

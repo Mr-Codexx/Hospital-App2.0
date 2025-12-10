@@ -1,6 +1,6 @@
 {
-  "short_name": "MediCare Pro",
-  "name": "MediCare Pro - Hospital Management System",
+  "short_name": "Sai Prasanthi",
+  "name": "Sai Prasanthi - Hospital Management System",
   "description": "Professional healthcare management solution for hospitals, clinics, and medical facilities",
   "lang": "en-US",
   "dir": "ltr",
@@ -47,7 +47,7 @@
       "sizes": "1080x1920",
       "type": "image/jpeg",
       "form_factor": "narrow",
-      "label": "MediCare Pro Dashboard"
+      "label": "Sai Prasanthi Dashboard"
     },
     {
       "src": "https://images.unsplash.com/photo-1582750433449-648ed127bb54?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80",
@@ -99,7 +99,7 @@
   "prefer_related_applications": false,
   "protocol_handlers": [
     {
-      "protocol": "web+medicare",
+      "protocol": "web+Sai Prasanthi",
       "url": "/?protocol=%s"
     }
   ]

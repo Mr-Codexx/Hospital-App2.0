@@ -89,12 +89,12 @@ const MobileNav = ({ onOpen }) => {
           
           <Avatar
             size="sm"
-            name="MediCare"
+            name="Sai Prasanthi"
             src="https://cdn-icons-png.flaticon.com/512/2966/2966327.png"
           />
           
           <Heading size="md" color="brand.500">
-            MediCare
+            Sai Prasanthi
           </Heading>
         </HStack>
 

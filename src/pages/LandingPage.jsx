@@ -422,7 +422,7 @@ const LandingPage = () => {
             <HStack spacing={3}>
               <Icon as={RiHospitalLine} w={8} h={8} color="brand.500" />
               <Box>
-                <Heading size="lg" color="brand.500">MediCare Pro</Heading>
+                <Heading size="lg" color="brand.500">Sai Prasanthi</Heading>
                 <Text fontSize="sm" color="gray.600">Advanced Hospital Management</Text>
               </Box>
             </HStack>
@@ -463,13 +463,13 @@ const LandingPage = () => {
         </Container>
       </Box>
 
-      {/* About MediCare */}
+      {/* About Sai Prasanthi */}
       <Box py={20} bg={secondaryColor}>
         <Container maxW="container.xl">
           <VStack spacing={12} align="center">
             <VStack spacing={4} textAlign="center" maxW="800px">
               <Badge colorScheme="brand" px={4} py={1} borderRadius="full">About Us</Badge>
-              <Heading size="2xl">Welcome to MediCare Pro</Heading>
+              <Heading size="2xl">Welcome to Sai Prasanthi</Heading>
               <Text fontSize="xl" color="gray.600">
                 A leading healthcare institution providing comprehensive medical services with 
                 state-of-the-art technology and expert medical professionals.
@@ -891,7 +891,7 @@ const LandingPage = () => {
                 <HStack spacing={3}>
                   <Icon as={RiHospitalLine} w={8} h={8} color="white" />
                   <Box>
-                    <Heading size="lg">MediCare Pro</Heading>
+                    <Heading size="lg">Sai Prasanthi</Heading>
                     <Text fontSize="sm" opacity={0.8}>Advanced Hospital Management</Text>
                   </Box>
                 </HStack>
@@ -933,7 +933,7 @@ const LandingPage = () => {
           
           <Flex justify="space-between" align="center" flexWrap="wrap" gap={4}>
             <Text opacity={0.8}>
-              © 2024 MediCare Pro Hospital. All rights reserved.
+              © 2024 Sai Prasanthi Hospital. All rights reserved.
             </Text>
             <HStack spacing={6}>
               <Text opacity={0.8} cursor="pointer" _hover={{ opacity: 1 }}>Privacy Policy</Text>

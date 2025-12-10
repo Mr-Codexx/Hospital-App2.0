@@ -274,7 +274,7 @@ const LoginPopup = ({ isOpen, onClose, onLoginSuccess }) => {
 
       toast({
         title: 'Account Created!',
-        description: 'Welcome to MediCare Pro',
+        description: 'Welcome to Sai Prasanthi',
         status: 'success',
         duration: 3000,
       });
@@ -293,7 +293,7 @@ const LoginPopup = ({ isOpen, onClose, onLoginSuccess }) => {
           <HStack spacing={3}>
             <MdHealthAndSafety size={24} />
             <Box>
-              <Text fontSize="xl" fontWeight="bold">MediCare Pro</Text>
+              <Text fontSize="xl" fontWeight="bold">Sai Prasanthi</Text>
               <Text fontSize="sm" opacity={0.9}>
                 {isLoginMode ? 'Welcome Back!' : 'Create Account'}
               </Text>

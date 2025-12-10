@@ -127,7 +127,7 @@ const Login = () => {
             />
             <Box>
               <Heading size="lg" color="brand.500">
-                MediCare Pro
+                Sai Prasanthi
               </Heading>
               <Text color="gray.600">Hospital Management System</Text>
             </Box>

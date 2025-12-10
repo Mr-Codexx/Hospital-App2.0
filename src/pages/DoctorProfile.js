@@ -396,7 +396,7 @@ const DoctorProfile = () => {
                                         <List spacing={4}>
                                             <ListItem p={3} bg="white" borderRadius="lg" shadow="sm">
                                                 <Text fontWeight="bold">Senior Consultant</Text>
-                                                <Text color="gray.600">MediCare Pro Hospital (2018-Present)</Text>
+                                                <Text color="gray.600">Sai Prasanthi Hospital (2018-Present)</Text>
                                             </ListItem>
                                             <ListItem p={3} bg="white" borderRadius="lg" shadow="sm">
                                                 <Text fontWeight="bold">Consultant</Text>

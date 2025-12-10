@@ -1841,7 +1841,7 @@ const PharmacyPage = () => {
               <Heading size="lg" color="blue.600">
                 <HStack>
                   <MdLocalPharmacy />
-                  <Text>MediCare Pharmacy</Text>
+                  <Text>Sai Prasanthi Pharmacy</Text>
                 </HStack>
               </Heading>
             </HStack>
