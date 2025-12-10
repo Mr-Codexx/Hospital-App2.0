@@ -495,6 +495,10 @@ Staff: reception@hospital.com / reception123
 
 **Made with ❤️ for the healthcare industry**  
 *Last Updated: December 2024*  
+<<<<<<< HEAD
 *Version: 2.0*#   H o s p i t a l - A p p 2 . 0 
  
  
+=======
+*Version: 2.0*#
+>>>>>>> ef9ee82d5062e9f4455dac07bb832914a49a5c0c
